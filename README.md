@@ -1,3 +1,8 @@
+# Steps to clone this repo in any folder
+git clone --single-branch --branch main https://github.com/ramandeeptrehan/react-mini-boilerplate-repo.git .
+
+NOTE: Dot at the end represents that clone needs to be done in current folder.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
