@@ -1,4 +1,4 @@
-# Steps to clone this repo in any folder
+# Steps to clone this repo in a folder
 git clone --single-branch --branch main https://github.com/ramandeeptrehan/react-mini-boilerplate-repo.git .
 
 NOTE: Dot at the end represents that clone needs to be done in current folder.
