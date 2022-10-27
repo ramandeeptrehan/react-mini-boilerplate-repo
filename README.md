@@ -6,6 +6,10 @@ NOTE: Dot at the end represents that clone needs to be done in current folder.
 # Command to build node_modules
 yarn
 
+# To start from scratch
+If you don't need any sample code, remove App.js file and remove contents of index.js file.
+localhost:3000 would be a blank white page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
