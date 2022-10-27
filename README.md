@@ -3,6 +3,9 @@ git clone --single-branch --branch main https://github.com/ramandeeptrehan/react
 
 NOTE: Dot at the end represents that clone needs to be done in current folder.
 
+# Command to build node_modules
+yarn
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
